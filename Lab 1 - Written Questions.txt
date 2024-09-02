@@ -1,0 +1,14 @@
+a. When 23 was assigned to the variable radius through user input, it was a string. However, when doing mathematical calculations, you need an integer or a float.
+
+b. I'm assuming that eval converts the information stored within radius into a number (i.e. an integer or float).
+
+c. No.
+
+d. You need to gather the radius first so that you can calculate circumference, as the formula uses a circle's radius to calculate the circumference.
+
+e. When executing "radius" in the python shell, I get an error saying that "'radius' is not defined."
+
+f. When I restarted the shell, my previous information was wiped, meaning that nothing is assigned to radius, meaning that radius wasn't defined, which means that there is nothing for Python to recall.
+
+g. Using the Course SDP tasks allows you to break a problem down into different goals that need to be accomplished, you can take on different tasks to solve the problem one step at a time.
+
